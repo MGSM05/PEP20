@@ -1,1 +1,0 @@
-print("Mario González San Martín")
